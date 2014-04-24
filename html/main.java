@@ -7,7 +7,7 @@ public class Something {
 	public void main () {}
 
 	public void Something () {
-		SSSSystem.out.println("ここにtypoが！！");
+		SSSSystem.out.println("Hello Typetalk!!");
 	}
-
+	
 }
